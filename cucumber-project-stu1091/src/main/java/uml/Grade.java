@@ -59,7 +59,9 @@ public class Grade {
      * @return
      */
     public void setGrade(int grade) {
+    	if (grade>=2 & grade<=6) {
       this.grade=grade;
+    	}
     }
 
     /**

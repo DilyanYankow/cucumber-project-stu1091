@@ -75,7 +75,7 @@ public class User {
      * @param firstname 
      * @return
      */
-    public void setFirstName(String firstname) {
+    public void setFirstName(String firstName) {
         this.firstName=firstName;
     }
 
